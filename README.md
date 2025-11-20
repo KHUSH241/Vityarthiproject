@@ -52,8 +52,12 @@ Unlike standard calculators that use algebra, this program uses an **Iterative S
 ## 📸 Screenshots
 ### Main Menu
 ![Calculation](./screenshots/menu.png)
-### Calculation
+### Calculation (Safe)
 ![Calculation](./screenshots/menu_1.png)
+### Calculation (Danger)
+![Calculation](./screenshots/menu_2.png)
+### Calculation (Error)
+![Calculation](./screenshots/menu_3.png)
 
 
 ## 👤 Author
