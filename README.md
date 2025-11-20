@@ -1,7 +1,7 @@
 # College Attendance Manager (The Smart "Bunk" Calculator)
 
 **Domain:** Productivity & Automation  
-**Language:** Python 3.x  
+**Language:** Python 3.14.0 
 **Submission Date:** November 2025
 
 ## 📖 Project Overview
@@ -58,5 +58,5 @@ Unlike standard calculators that use algebra, this program uses an **Iterative S
 
 
 ## 👤 Author
-* **Name:** [Your Name Here]
-* **Reg No:** [Your Reg No Here]# Vityarthiproject
+* **Name:** Khush M Lohar
+* **Reg No:** 25BAI11336 # Vityarthiproject
