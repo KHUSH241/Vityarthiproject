@@ -50,11 +50,9 @@ Unlike standard calculators that use algebra, this program uses an **Iterative S
     * *Result:* The number of loop iterations = Classes Needed.
 
 ## 📸 Screenshots
-### Main Menu
-![Main Menu View](./screenshots/menu_view.png)
-
-### Calculation Result
-![Calculation Example](./screenshots/calculation.png)
+### Dashboard View
+![Calculation](./screenshots/menu.png)
+![Calculation](./screenshots/menu_1.png)
 
 
 ## 👤 Author
