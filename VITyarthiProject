@@ -2,6 +2,7 @@ def calculate_status(subject_name, attended, total):
     if total == 0:
         print("Error: Total classes cannot be zero.")
         return
+
     current_percentage = (attended / total) * 100
     print(f"\n--- Analysis for {subject_name} ---")
     print(f"Current Attendance: {current_percentage:.2f}%")
