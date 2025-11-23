@@ -1,7 +1,7 @@
 # Project Statement: College Attendance Manager
 
 ## 1. Problem Statement
-In many academic institutions, maintaining a mandatory attendance threshold (commonly 75%) is a prerequisite for appearing in final examinations. Students often struggle to track their attendance accurately due to manual calculation errors or lack of data visibility. 
+In many academic institutions, maintaining a mandatory attendance (commonly 75%) is mandatory for appearing in final examinations. Students often struggle to track their attendance accurately due to manual calculation errors or lack of data visibility. 
 
 Existing tools typically provide only the *current* percentage. They fail to answer the two most critical questions a student has:
 1.  *"How many upcoming classes can I safely skip without dropping below the limit?"*
