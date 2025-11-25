@@ -49,6 +49,7 @@ Unlike standard calculators that use algebra, this program uses an **Iterative S
     * It stops when the percentage reaches 75%.
     * *Result:* The number of loop iterations = Classes Needed.
 
+
 ## 📸 Screenshots
 ### Main Menu
 ![Calculation](./screenshots/menu.png)
